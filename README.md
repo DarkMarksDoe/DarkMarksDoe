@@ -24,7 +24,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkmarksdoe&show_icons=true&theme=radical&line_height=40" alt="Mark's github stats" />
 </a>
 <br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darkmarksdoe)
+
 <p>
 octocat gif by:https://github.com/coderjojo<br>
 charts by: https://github.com/anuraghazra/github-readme-stats</p>
