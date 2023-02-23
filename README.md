@@ -12,8 +12,10 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
 <samp>  
   <br>
-    Hi, I'm <a href="https://darkmarksdoe.xyz/">Mark</a> a pasionate and kind of weird developer between mobile / backend and shell¿ <br>
-    Currently a fourth Year CSE student at <a href="https://www.cdhidalgo.tecnm.mx/">@ITSCH :school: </a> working hard to be a Software Engineer :computer:. Interested in working on Android and Flutter Apps, Artificial Intelligence, Backend API's with Go and Python, Algorithms. Currently learning about Machine Learning | Web | Flutter.
+    Hi, I'm <a href="https://darkmarksdoe.xyz/">Mark</a> a pasionate and kind of weird developer between mobile and AI¿ <br>
+    Currently working as a Flutter developer at a leading tech company, as well as doing freelance work on the side :computer:. <br>
+  If you have any interesting projects that you think I can contribute to, or if you just want to connect and chat about technology, please feel free to reach out to me.
+ 
   <br>
   </samp>
 </p>
